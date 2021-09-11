@@ -1,0 +1,47 @@
+.container-header {
+    width: 100%;
+    height: 100vh;
+    background-color: #171717;
+}
+
+.container {
+    width: 100%;
+    max-width:1500px;
+    margin: 0 auto;
+    padding: 80px 20px;
+}
+
+.container-main-paragraph {
+    width: 100%;
+    max-width:1500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    height: 450px;
+    margin-top: 80px;
+}
+
+.container-main-paragraph p {
+    align-self: flex-start;
+}
+
+.container-main-paragraph img {
+    align-self: flex-end;
+}
+
+.main-paragraph {
+    font-size: 72px;
+    color: #FFF;
+}
+
+.main-paragraph .blue {
+    color: #2A83B1;
+}
+
+.main-paragraph .orange {
+    color: #CA6A4C;
+}
+
+.main-paragraph .green {
+    color: #215E56;;
+}

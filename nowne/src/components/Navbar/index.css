@@ -1,0 +1,17 @@
+.container-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: #215E56;
+    color: #FFF;
+    width: 182px;
+    height: 40px;
+    font-size: 18px;
+    border-radius: 32px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+}
